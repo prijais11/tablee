@@ -1,0 +1,25 @@
+*{
+    box-sizing:border-box;
+}
+.left{
+    width:49%;
+    float:left;
+    font-size:20px;
+    text-align:center;
+}
+.right{
+    width:49%;
+    float:right;
+    font-size:20px;
+    text-align:center;
+}
+#box{
+    border:1px solid black;
+    width: 50%;
+    height:40%;
+}
+#submit{
+    text-align:center;
+    Width:100px ;
+    height:80px;
+}
